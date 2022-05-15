@@ -32,4 +32,7 @@ then we must push our file so,
 we use
 git push -u origin main
 
+finally if we want to store any github file into our local computer we use this command:
+git clone /...copy and paste the file location../
 
+thanks 
